@@ -45,3 +45,20 @@ html, body {
   -webkit-animation: 0.6s draw linear forwards;
   animation: 0.6s draw linear forwards;
 }
+.info-wrapper {
+  position: relative;
+  top: 70%;
+  height: 60px;
+  width: 320px;
+  margin: 0 auto;
+  transform: translateY(-50%);
+}
+.info-text {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  letter-spacing: 1px;
+  line-height: 32px;
+  position: relative;
+  top: -48px;
+}
