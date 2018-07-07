@@ -5,7 +5,7 @@ html, body {
   overflow: hidden;
   text-align: center;
 }
-.svg-wrapper {
+.fraes-wrapper {
   position: relative;
   top: 50%;
   height: 60px;
@@ -20,7 +20,7 @@ html, body {
   stroke-width: 8px;
   stroke: #19f6e8;
 }
-.text {
+.fraes-text {
   color: #fff;
   font-family: 'Montserrat', sans-serif;
   font-size: 22px;
