@@ -41,7 +41,7 @@ html, body {
     stroke-width: 3px;
   }
 }
-.fraes-wrapper:hover .shape {
+.fraes-wrapper:hover .fraes-shape {
   -webkit-animation: 0.6s draw linear forwards;
   animation: 0.6s draw linear forwards;
 }
