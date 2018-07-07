@@ -13,7 +13,7 @@ html, body {
   margin: 0 auto;
   transform: translateY(-50%);
 }
-.shape {
+.fraes-shape {
   fill: transparent;
   stroke-dasharray: 140 540;
   stroke-dashoffset: -474;
