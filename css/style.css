@@ -8,12 +8,12 @@ html, body {
 }
 
 .svg-wrapper {
-  height: 60px;
-    margin: 0 auto;
   position: relative;
   top: 50%;
-  transform: translateY(-50%);
+  height: 60px;
   width: 320px;
+  margin: 0 auto;
+  transform: translateY(-50%);
 }
 
 .shape {
@@ -38,16 +38,16 @@ html, body {
   0% {
     stroke-dasharray: 140 540;
     stroke-dashoffset: -474;
-    stroke-width: 8px;
+    stroke-width: 9px;
   }
   100% {
     stroke-dasharray: 760;
     stroke-dashoffset: 0;
-    stroke-width: 2px;
+    stroke-width: 3px;
   }
 }
 
 .svg-wrapper:hover .shape {
-  -webkit-animation: 0.5s draw linear forwards;
-  animation: 0.5s draw linear forwards;
+  -webkit-animation: 0.6s draw linear forwards;
+  animation: 0.6s draw linear forwards;
 }
