@@ -6,7 +6,7 @@ html, body {
 }
 .fraes-wrapper {
   position: relative;
-  top: 50%;
+  top: 30%;
   height: 60px;
   width: 320px;
   margin: 0 auto;
@@ -22,7 +22,7 @@ html, body {
 .fraes-text {
   color: #fff;
   font-family: 'Montserrat', sans-serif;
-  font-size: 22px;
+  font-size: 24px;
   letter-spacing: 8px;
   line-height: 32px;
   position: relative;
@@ -50,7 +50,6 @@ html, body {
   height: 60px;
   width: 320px;
   margin: 0 auto;
-  transform: translateY(-50%);
 }
 .info-text {
   color: #fff;
