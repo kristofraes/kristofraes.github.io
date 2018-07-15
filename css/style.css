@@ -27,6 +27,7 @@ html, body {
   letter-spacing: 8px;
   line-height: 32px;
   position: relative;
+  top: -40px;
 }
 @keyframes draw {
   0% {
