@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 html, body {
   background: #002B45;
+  height: 100%;
   overflow: hidden;
   text-align: center;
-  height: 100%;
 }
 .fraes-wrapper {
+  position: relative;
   top: 50%;
   height: 60px;
   width: 320px;
@@ -45,6 +46,7 @@ html, body {
   animation: 0.6s draw linear forwards;
 }
 .info-wrapper {
+  position: relative;
   top: 70%;
   height: 60px;
   width: 320px;
@@ -57,5 +59,6 @@ html, body {
   font-size: 22px;
   letter-spacing: 1px;
   line-height: 32px;
+  position: relative;
   top: -48px;
 }
