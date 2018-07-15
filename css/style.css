@@ -3,6 +3,7 @@ html, body {
   background: #002B45;
   overflow: hidden;
   text-align: center;
+  height: 100%;
 }
 .fraes-wrapper {
   top: 50%;
